@@ -1,1 +1,5 @@
 *.v linguist-language=Verilog
+*.vh linguist-language=Verilog
+*.txt linguist-detectable=false
+*.log linguist-detectable=false
+*.json linguist-detectable=false
